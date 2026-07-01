@@ -219,17 +219,6 @@ Designed a professional multi-page Power BI dashboard for business decision maki
 
 ---
 
-# 📷 Dashboard Preview
-
-> Replace the image path below with your uploaded screenshot.
-
-```markdown
-<img width="877" height="497" alt="Executive Overview" src="https://github.com/user-attachments/assets/6b993194-5637-4cf3-bb9e-6ec89338a708" />
-
-```
-
----
-
 # 📈 Skills Demonstrated
 
 ### Data Cleaning
@@ -330,10 +319,6 @@ Data-Analysis-Internship/
 ├── Power BI/
 │   └── Dashboard.pbix
 │
-├── Page 1 Executive Overview/
-│   └── <img width="877" height="497" alt="Executive Overview" src="https://github.com/user-attachments/assets/045cd6d3-ae43-42ce-a807-58ce12d9d3ce" />
-
-
 │
 └── README.md
 ```
